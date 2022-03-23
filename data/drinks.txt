@@ -1,7 +1,7 @@
-arbata
-kavana
-kakava
-sula
-gira
-Limonadas
-sultys
+arbata 0.15 10
+kavana 1.5 7
+kakava 2.00 4
+sula 7.00 3
+gira 0.99 0
+Limonadas 1.25 2
+sultys 2.22 5
