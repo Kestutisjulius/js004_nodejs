@@ -1,7 +1,7 @@
 
 {
     "name": "Jonas",
-    "lastname": "Jonaitis",
+    "lastName": "Jonaitis",
     "age": 99,
     "childrenCount": 3,
     "children": [
