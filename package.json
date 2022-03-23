@@ -9,10 +9,18 @@
     "co":"nodemon ./country.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["nodejs", "fs", "OOP", "array", "fullPath"],
   "author": "Kestutis <kestutis.julius@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git + https://github.com/Kestutisjulius/js004_nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kestutisjulius/js004_nodejs/issues"
+  },
+  "homepage": "https://github.com/Kestutisjulius/js004_nodejs#readme"
 }
